@@ -15,6 +15,10 @@ Este sistema de ventas permite a una consultora especializada en bases de datos 
 
 https://github.com/Mariela54125/TPfinal59410/blob/main/DER%20BD%20Sistema_de_ventas.jpg
 
+### Diagrama de Esquematico
+
+
+
 
 ### Tablas
 
