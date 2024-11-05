@@ -16,6 +16,7 @@ Este sistema de ventas permite a una consultora especializada en bases de datos 
 DER BD Sistema_de_ventas.jpg
 
 
+
 ### Tablas
 
 - **Clientes**
