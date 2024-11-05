@@ -17,6 +17,8 @@ https://github.com/Mariela54125/TPfinal59410/blob/main/DER%20BD%20Sistema_de_ven
 
 ### Diagrama de Esquematico
 
+https://github.com/Mariela54125/TPfinal59410/blob/main/Estructura%20Esquematica.jpg
+
 
 
 
