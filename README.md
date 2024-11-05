@@ -13,8 +13,7 @@ Este sistema de ventas permite a una consultora especializada en bases de datos 
 
 ### Diagrama de Entidad-Relación
 
-DER BD Sistema_de_ventas.jpg
-
+https://github.com/Mariela54125/TPfinal59410/blob/main/DER%20BD%20Sistema_de_ventas.jpg
 
 
 ### Tablas
