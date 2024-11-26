@@ -12,7 +12,7 @@ Ver el DER   (DER BD Sistema_de_ventas.jpg)
 Representa gráficamente las entidades, sus atributos y las relaciones entre ellas.
 
 Diagrama Esquemático
-Ver el Esquemático
+Ver el Esquemático (Estructura Esquematica.jpg)
 Muestra una vista más detallada de las tablas y sus relaciones.
 
 Tablas y Columnas Principales
