@@ -1,0 +1,20 @@
+Aspecto	Corrección Solicitada	
+
+*Funciones:	Se pasaron consultas SQL como funciones, pero debían ser funciones reales.	
+Se ajustaron las funciones para que tengan una lógica clara, aceptando parámetros adecuados y retornando resultados relevantes, no solo consultas. 
+Ejemplo: PromedioVentas ahora tiene un rango de fechas y parámetros claros.
+
+*Procedimientos	Los procedimientos eran básicamente consultas, que pueden ser realizadas como funciones.	
+Se reestructuraron los procedimientos para tener una lógica más clara, siguiendo los pasos indicados:
+1. Validación del cliente o vendedor.
+2. Transformación de los datos (cálculo).
+3. Retorno de la información relevante. 
+Ejemplo: TotalVentasCliente y TotalVentasVendedor fueron mejorados en estos aspectos.
+
+*Documentación de Tablas:
+Faltaba una explicación detallada sobre lo que hace cada tabla y sus columnas.	
+Se añadió una descripción completa de las tablas en el README, incluyendo la clave primaria, tipo de datos y explicación de su función en el sistema. 
+Esto ayuda a entender el modelo de datos.
+Flujo de Trabajo de los Procedimientos	Los procedimientos no seguían una lógica clara de validación, transformación y retorno de datos.
+Los procedimientos ahora validan la existencia de usuarios (clientes o vendedores), realizan los cálculos necesarios y retornan resultados específicos. 
+Ejemplo: En TotalVentasCliente, se valida primero que el cliente exista antes de realizar cualquier cálculo.
