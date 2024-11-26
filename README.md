@@ -8,7 +8,7 @@ Proveer informes detallados y visualizaciones que faciliten el análisis de dato
 
 Estructura del Sistema
 Diagrama de Entidad-Relación
-Ver el DER   DER BD Sistema_de_ventas.jpg
+Ver el DER   (DER BD Sistema_de_ventas.jpg)
 Representa gráficamente las entidades, sus atributos y las relaciones entre ellas.
 
 Diagrama Esquemático
